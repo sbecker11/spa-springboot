@@ -1,0 +1,3 @@
+com/example/spa/SpaApplication.class
+com/example/spa/config/SecurityConfig.class
+com/example/spa/controller/MainController.class
